@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi ! I'm Stanford Lin👋
 
+
+## My GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=StanfordLintw&show_icons=true&count_private=true&theme=vue-dark)
+
+
+### 📫 How to contact me:
+
+- email: ok921729@gmail.com
 <!--
 **StanfordLintw/StanfordLintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
