@@ -1,6 +1,14 @@
 ### Hi ! I'm Stanford Lin👋
+<p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Backend Engineer </p>
 
+<div align="left">
 
+- 👨🏽‍💻 90後新時代碼農; 
+- 🤔 主要負責後端SpringBoot系統開發、與前中台的前端技術(React,Vue)選型與開發;
+- 💼 目前3年經驗，同時也是一位Freelancer，努力在社群中活躍;
+- 💬 夢想是打造療聊醫生社交平台，能夠協助與互助更多社會人士學會聊天與溝通，在生活中幸福美滿;
+  
 ## My GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=StanfordLintw&show_icons=true&count_private=true&theme=vue-dark)
