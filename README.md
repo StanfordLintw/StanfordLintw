@@ -1,4 +1,5 @@
-### Hi ! I'm Stanford Lin👋
+## Hi ! I'm Stanford Lin👋
+
 <p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   Backend Engineer </p>
 
