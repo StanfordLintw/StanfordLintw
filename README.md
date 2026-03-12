@@ -5,9 +5,10 @@
 
 <div align="left">
 
-- 👨🏽‍💻 90後新時代碼農; 
-- 🤔 主要負責後端SpringBoot系統開發、與前中台的前端技術(React,Vue)選型與開發;
-- 💼 目前8年經驗，同時也是一位Freelancer (HouseDomo)，並在各大社群中活躍;
+- 👨🏽‍💻 90後新時代碼農;
+- 📌 HDLAB 好事實驗室 創辦人
+- 🤔 過往負責後端SpringBoot系統開發、與前中台的前端技術(React,Vue)選型與開發，現今主軸AI開發應用;
+- 💼 目前8+年經驗，同時也是一位Freelancer (HouseDomo->HDLAB)，並在各大社群中活躍;
 - 💬 夢想是打造療聊醫生社交平台，能夠協助與互助更多社會人士學會聊天與溝通，在生活中幸福美滿;
   
 ## My GitHub Stats
@@ -47,7 +48,7 @@
 
 ### 📫 How to contact me:
 
-- email: ok921729@gmail.com
+- email: ok921729@gmail.com & hdlab.co@gmail.com
 
 <!--
 **StanfordLintw/StanfordLintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
