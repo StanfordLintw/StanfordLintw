@@ -1,66 +1,40 @@
-## Hi ! I'm Stanford Lin 史丹佛弟弟👋
+# Hi, I'm Stanford 👋
 
-<p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Backend Engineer </p>
+HDLAB 好事實驗室 創辦人 · 全端工程師 · AI 應用開發者 · Taiwan 🇹🇼
 
-<div align="left">
+8+ 年經驗，目前專注 AI 產品開發與多 Agent 系統架構。活躍於 75+ LINE OpenChat 社群，持續輸出 AI 協作實戰心得。
 
-- 👨🏽‍💻 90後新時代碼農;
-- 📌 HDLAB 好事實驗室 創辦人
-- 🤔 過往負責後端SpringBoot系統開發、與前中台的前端技術(React,Vue)選型與開發，現今主軸AI開發應用產品;
-- 💼 目前8+年經驗，同時也是一位Freelancer (HouseDomo->HDLAB)，並在各大社群中活躍;
-- 💬 夢想是打造療聊醫生社交平台，能夠協助與互助更多社會人士學會聊天與溝通，在生活中幸福美滿;
-  
-## My GitHub Stats
+---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=StanfordLintw&show_icons=true&count_private=true&theme=vue-dark)
+### 正在做的事
 
-## Languages
+- 🧪 **[好說 HaoShuo](https://haoshuo.hdlab.dev)** — AI 原生溝通平台（Chat + Agent 排程 + 看板）
+- 🤖 **LINE Bot 阿貓** — 結合間隔複習的 AI 助理 Bot
+- 🛠️ **揪課系統** — Spring Boot + Google Sheets 的揪團報課平台
 
-![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-## Frontend Skills
+### 技術棧
 
-![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/facebook/react)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LINE](https://img.shields.io/badge/LINE_Bot-00C300?style=flat-square&logo=line&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Backend Skills
+---
 
-![](https://img.shields.io/badge/spring-boot-brightgreen)
-![](https://img.shields.io/badge/spring-cloud-brightgreen)
-![](https://img.shields.io/badge/-Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### GitHub Stats
 
-## Operation Skills
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanfordLintw&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c8f55a&icon_color=5af5c8&text_color=e8e6df)
 
-![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
-![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+---
 
-## Experienced Cloud Platform
+### 找我
 
-![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
-
-### 📫 How to contact me:
-
-- email: ok921729@gmail.com & hdlab.co@gmail.com
-
-<!--
-**StanfordLintw/StanfordLintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![網站](https://img.shields.io/badge/個人網站-stanfordlintw.github.io-c8f55a?style=flat-square)](https://stanfordlintw.github.io)
+[![Coffee Chat](https://img.shields.io/badge/Coffee_Chat_☕-預約諮詢-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/)
+[![Email](https://img.shields.io/badge/Email-hdlab.co@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hdlab.co@gmail.com)
